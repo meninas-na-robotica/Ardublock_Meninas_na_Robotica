@@ -31,6 +31,31 @@ Blockly.Msg.LetR = "right & left";
 Blockly.Msg.direction = "direction";
 Blockly.Msg.vitesse = "speed ";
 // categories (menu)
+Blockly.Msg.CAT_MNR= "Miniprojects"
+Blockly.Msg.CAT_FLORES= "1) Flower Vase"; //CATEGORIA DO MINI PROJETO COPO DE FLORES
+Blockly.Msg.CAT_NIVEL_AGUA= "2) Water Level"; //CATEGORIA DO MINI PROJETO NIVEL DE AGUA
+Blockly.Msg.CAT_UMIDADE= "3) Humidity"; //CATEGORIA DO MINI PROJETO UMIDADE DA TERRA
+Blockly.Msg.CAT_HORTA= "4) Automated Garden"; //CATEGORIA DO MINI PROJETO DE HORTA AUTOMATIZADA
+Blockly.Msg.CAT_VENTILADOR= "5) Fan"; //CATEGORIA DO MINI PROJETO VENTILADOR
+Blockly.Msg.CAT_CAR_BLUETOOTH= "6) Bluetooth Car"; //CATEGORIA DO MINI PROJETO CARRINHO BLUETOOTH
+Blockly.Msg.CAT_LIXEIRA= "7) Trash Can"; //CATEGORIA DO MINI PROJETO LIXEIRA ULTRASSONICA
+Blockly.Msg.CAT_CAR_ULTRASSOM= "8) Ultrasonic Car"; //CATEGORIA DO MINI PROJETO CARRINHO ULTRASSONICO
+
+Blockly.Msg.CAT_ARDUINO_MNR= "Structure"
+Blockly.Msg.CAT_IN_OUT_MNR= "Input/Output"
+Blockly.Msg.CAT_TIME_MNR= "Time"
+Blockly.Msg.CAT_FUNCTIONS_MNR= "Function"
+Blockly.Msg.CAT_TEXT_MNR= "Text"
+Blockly.Msg.CAT_COMM_SERIAL_MNR= "Serial COM"
+Blockly.Msg.CAT_VARIABLES_MNR= "Variables"
+Blockly.Msg.CAT_SENSOR_IN_MNR= "Input Sensors"
+Blockly.Msg.CAT_MOTOR_MNR= "Motors"
+Blockly.Msg.CAT_LOGIC_MNR= "Logic"
+
+
+
+
+
 Blockly.Msg.CAT_STOCKAGE = "Storage";
 Blockly.Msg.CAT_numerique = "- Digital";
 Blockly.Msg.CAT_analogique = "~ Analog";
