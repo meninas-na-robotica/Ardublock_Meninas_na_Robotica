@@ -33,7 +33,7 @@ var MSG = {
   exampleModalLabel: "E-mail: ardublock@mail.ru",
   versionModalLabel: "Transferências",
   variableModalLabel: "Variáveis",
-  cardLabel: "Placas disponíveisы",
+  cardLabel: "Placas disponíveis",
   aboutcardLabel: "Placas ...",
   usbLabel: "USB",
   aboutusbLabel: "Conexão da placa (controlador) com o computador",
