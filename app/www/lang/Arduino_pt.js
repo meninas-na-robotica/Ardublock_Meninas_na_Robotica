@@ -54,6 +54,7 @@ Blockly.Msg.CAT_LOGIC_MNR= "Lógica"
 
 
 
+
 Blockly.Msg.CAT_STOCKAGE = "Armazenar";
 Blockly.Msg.CAT_numerique = "Digital";
 Blockly.Msg.CAT_analogique = "Analógico";
